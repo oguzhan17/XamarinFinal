@@ -1,0 +1,23 @@
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\bin\Debug\netstandard2.0\XamarinFirebase.deps.json
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\bin\Debug\netstandard2.0\XamarinFirebase.dll
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\bin\Debug\netstandard2.0\XamarinFirebase.pdb
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.csprojAssemblyReference.cache
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.csproj.CoreCompileInputs.cache
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.AssemblyInfoInputs.cache
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.AssemblyInfo.cs
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.dll
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.pdb
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\bin\Debug\netstandard2.0\XamarinFirebase.deps.json
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\bin\Debug\netstandard2.0\XamarinFirebase.dll
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\bin\Debug\netstandard2.0\XamarinFirebase.pdb
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.AssemblyInfoInputs.cache
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.AssemblyInfo.cs
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.dll
+C:\Users\oguzh\Downloads\Xamarin-Firebase-RealtimeDatabase-master\Xamarin-Firebase-RealtimeDatabase-master\XamarinFirebase\XamarinFirebase\obj\Debug\netstandard2.0\XamarinFirebase.pdb

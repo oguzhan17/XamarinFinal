@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinFirebase"
+             x:Class="XamarinFirebase.MainPage">
+
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Text="map" Clicked="map_Clicked" Grid.Column="1"/>
+            <Button Text="Scan" Clicked="Button_Clicked" Grid.Column="0"/>
+        </Grid>
+        
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start" Padding="25">
+                <Label  Text="Barkod No:" x:Name="scancode"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Kitap Adı : " FontSize="25"/>
+                    <Label   x:Name="scanName" FontSize="25"/>
+                </StackLayout>
+               
+                <ListView x:Name="lst" ItemsSource="{Binding .}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Yorum}"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+    
+</ContentPage>
